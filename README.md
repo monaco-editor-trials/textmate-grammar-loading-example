@@ -1,6 +1,6 @@
 # monaco-editor-textmate-grammar-loading-example
 
-[Edit in StackBlitz ⚡️](https://stackblitz.com/~/github.com/relliv/monaco-editor-textmate-grammar-loading-example)
+## [Edit in StackBlitz ⚡️](https://stackblitz.com/~/github.com/relliv/monaco-editor-textmate-grammar-loading-example)
 
 ## References
 
